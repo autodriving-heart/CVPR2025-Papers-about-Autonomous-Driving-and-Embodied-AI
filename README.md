@@ -2,15 +2,21 @@
 
 ## Autonomous-Driving
 
-### (1)Occupancy
+### (1) Occupancy
 
 **UniScene: Unified Occupancy-centric Driving Scene Generation**
 
 - paper: https://arxiv.org/pdf/2412.05435
 
 - code: https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation
+  
+**GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**
 
-### (2)End-to-End Autonomous-Driving
+- paper: https://arxiv.org/abs/2412.04384
+
+- code: https://github.com/huang-yh/GaussianFormer
+
+### (2) End-to-End Autonomous-Driving
 
 **Don't Shake the Wheel: Momentum-AwarePlanning in End-to-End Autonomous Driving**
 
@@ -24,7 +30,7 @@
 
 - code: https://github.com/hustvl/DiffusionDrive
 
-### (3)Multi-modal Fusion
+### (3) Multi-modal Fusion
 
 **V2X - R: Cooperative LiDAR - 4D Radar Fusion with Denoising Diffusion for 3D Object Detection**
 
@@ -32,7 +38,7 @@
 
 - code: https://github.com/ylwhxht/V2X-R
 
-### (4)Vision Language Model
+### (4) Vision Language Model
 
 **OmniDrive: A Holistic Vision - Language Dataset for Autonomous Driving with counter Factual Reasoning**
 
@@ -40,7 +46,7 @@
 
 - code: https://github.com/NVlabs/OmniDrive
 
-### (5)World Model
+### (5) World Model
 
 **DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene**
 
@@ -54,7 +60,7 @@
 
 - code: https://github.com/GigaAI-research/ReconDreamer
 
-### (6)Closed Loop
+### (6) Closed Loop
 
 **DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**
 
@@ -62,7 +68,7 @@
 
 - code: https://github.com/yanty123/DrivingSphere
 
-### (7)Lane Detection
+### (7) Lane Detection
 
 **Rethinking Lanes and Points in complex Scenarios for Monocular 3D Lane Detection**
 
@@ -70,19 +76,27 @@
 
 ## Embodied-AI
 
+### (1) Diffusion Model
+
 **DexHandDiff: Interaction - aware Diffusion Planning for Adaptive Dexterous Manipulation**
 
 - paper: https://arxiv.org/abs/2411.18562
+
+### (2) 3D Semantic Flow
 
 **G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation**
 
 - paper: https://arxiv.org/abs/2411.18369
 - code:  https://github.com/TianxingChen/G3Flow
 
+### (3) Dual-Arm Robot
+
 **RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**
 
 - paper: https://arxiv.org/abs/2409.02920
 - code: https://github.com/TianxingChen/RoboTwin?tab=readme-ov-file#robotwin-dual-arm-robot-benchmark-with-generative-digital-twins
+
+### (4) Visual Language Model
 
 **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**
 

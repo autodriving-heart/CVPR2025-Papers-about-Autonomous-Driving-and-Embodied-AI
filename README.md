@@ -74,6 +74,12 @@
 
 - paper: https://arxiv.org/abs/2503.06237
 
+### (8) Motion Prediction
+
+**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**
+
+- paper: https://arxiv.org/pdf/2411.11911
+
 ## Embodied-AI
 
 ### (1) Diffusion Model

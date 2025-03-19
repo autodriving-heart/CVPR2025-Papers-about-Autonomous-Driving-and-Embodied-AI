@@ -102,6 +102,10 @@
 - paper: https://arxiv.org/abs/2409.02920
 - code: https://github.com/TianxingChen/RoboTwin?tab=readme-ov-file#robotwin-dual-arm-robot-benchmark-with-generative-digital-twins
 
+**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**
+
+- paper: https://arxiv.org/pdf/2412.09082
+- code: https://github.com/HCPLab-SYSU/LH-VLN
 ### (4) Visual Language Model
 
 **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**

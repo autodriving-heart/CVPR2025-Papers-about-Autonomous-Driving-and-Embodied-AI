@@ -196,3 +196,111 @@
 -- paper: https://arxiv.org/abs/2503.23024
 
 **Rethinking Query-based Transformer for Continual Image Segmentation**
+
+**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**
+
+- paper: http://arxiv.org/pdf/2504.18509v1
+
+- code: https://eval3d.git
+
+**Seeing Soundscapes: Audio-Visual Generation and Separation from Soundscapes Using Audio-Visual Separator**
+
+- paper: http://arxiv.org/pdf/2504.18283v1
+
+**SSL4Eco: A Global Seasonal Dataset for Geospatial Foundation Models in Ecology**
+
+- paper: http://arxiv.org/pdf/2504.18256v1
+
+- code: https://github.com/PlekhanovaElena/ssl4eco
+
+**BiasBench: A reproducible benchmark for tuning the biases of event cameras**
+
+- paper: http://arxiv.org/pdf/2504.18235v1
+
+**Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models**
+
+- paper: http://arxiv.org/pdf/2504.18032v1
+
+- code: https://chenchen-usyd.git
+
+**Dynamic Camera Poses and Where to Find Them**
+
+- paper: http://arxiv.org/pdf/2504.17788v1
+
+- code: https://research.nvidia.com/labs/dir/dynpose-100k
+
+**PICO: Reconstructing 3D People In Contact with Objects**
+
+- paper: http://arxiv.org/pdf/2504.17695v1
+
+- code: https://pico.is.tue.mpg.de
+
+**VEU-Bench: Towards Comprehensive Understanding of Video Editing**
+
+- paper: http://arxiv.org/pdf/2504.17828v1
+
+**Dual Prompting Image Restoration with Diffusion Transformers**
+
+- paper: http://arxiv.org/pdf/2504.17825v1
+
+**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**
+
+- paper: http://arxiv.org/pdf/2504.16684v1
+
+- code: https://github.com/semanticsugarbeets/semanticsugarbeets
+
+**PRaDA: Projective Radial Distortion Averaging**
+
+- paper: http://arxiv.org/pdf/2504.16499v1
+
+**CLOC: Contrastive Learning for Ordinal Classification with Multi-Margin N-pair Loss**
+
+- paper: http://arxiv.org/pdf/2504.17813v1
+
+**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**
+
+- paper: http://arxiv.org/pdf/2504.16030v1
+
+- code: https://showlab.git
+
+**PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning**
+
+- paper: http://arxiv.org/pdf/2504.16023v1
+
+- code: https://github.com/songw-zju/PointLoRA
+
+**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**
+
+- paper: http://arxiv.org/pdf/2504.15649v1
+
+**MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World**
+
+- paper: http://arxiv.org/pdf/2504.15397v1
+
+- code: https://mirror-verse.git
+
+**Plug-and-Play Versatile Compressed Video Enhancement**
+
+- paper: http://arxiv.org/pdf/2504.15380v1
+
+- code: https://huimin-zeng.git
+
+**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**
+
+- paper: http://arxiv.org/pdf/2504.15159v1
+
+**Improving Sound Source Localization with Joint Slot Attention on Image and Audio**
+
+- paper: http://arxiv.org/pdf/2504.15118v1
+
+**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: KwaiSR Dataset and Study**
+
+- paper: http://arxiv.org/pdf/2504.15003v1
+
+- code: https://lixinustc.git
+
+**DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**
+
+- paper: http://arxiv.org/pdf/2504.14920v1
+
+- code: https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025

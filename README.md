@@ -305,7 +305,7 @@
 
 - code: https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025
 
-## Other unfiled
+## Other Unfiled papers
 
 **LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**
 
